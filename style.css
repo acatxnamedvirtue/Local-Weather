@@ -1,0 +1,43 @@
+body {
+  background-color: #161616 !important;
+  color: white !important;
+}
+
+h1 {
+  font-size: 70px !important;
+}
+
+#location {
+  font-size: 30px;
+}
+
+#unit {
+  color: #006dcc;
+  cursor: pointer;
+}
+
+#unit:hover {
+  color: #0044cc;
+}
+
+#temperature {
+  font-size: 30px;
+}
+
+#description {
+  font-size: 30px;
+}
+
+#icon {
+  font-size: 70px;
+}
+
+#footer a{
+  color: white;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  color: white;
+  text-decoration: none;
+}
